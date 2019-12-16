@@ -38,7 +38,7 @@ pypeline explanation   and the role of voltage reduction in controling the power
 6-revewing the problems of logic families with diods and bipolar junction transistors:
 
 intruducing circuits with reduced swing?
-syllavu
+
 7-applied circuits
 ?
 
