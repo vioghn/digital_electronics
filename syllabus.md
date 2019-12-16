@@ -30,14 +30,15 @@ design and analyses the advanced CMOS family includes of differential and dynami
 4-the considerations of a low cusnumption and damage rasistant designs in CMOS technology
 
 5-sequential circuits:
+
 register and locks designing 
-????
+
 pypeline explanation   and the role of voltage reduction in controling the power
 
-6-revewing the problems of logic families with diods and bipolar junction transistors
+6-revewing the problems of logic families with diods and bipolar junction transistors:
+
 intruducing circuits with reduced swing?
-
-
+syllavu
 7-applied circuits
 ?
 
