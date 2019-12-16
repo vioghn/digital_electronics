@@ -4,4 +4,7 @@ title: Syllabus
 permalink: /syllabus/
 ---
 
-Please find the syllbaus [here](/static_files/materials/Syllabus.pdf).
+this is a test
+
+
+Please find the syllbaus [here](/static_files/materials/Syllabus.pdf)
