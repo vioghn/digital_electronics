@@ -3,23 +3,23 @@ layout: page
 title: Syllabus
 permalink: /syllabus/
 ---
-<h1>intruduction</h2>
 
-+intruducing the physical structure of mouse in comparision with P-N junction and and intruducing the physiscs of mouse transistors
 
-+characterisic curves and the model of Field-effect transistors(MOSFET)
+intruducing the physical structure of mouse in comparision with P-N junction and and intruducing the physiscs of mouse transistors
 
-+the functional specifications of a static or dynamic logical circuit
+characterisic curves and the model of Field-effect transistors(MOSFET)
 
-<h2>the manufacturing process of CMOS and design rules </h2>
+the functional specifications of a static or dynamic logical circuit
 
-+intruducing the manufacturing process of N-well and P-well CMOS
+the manufacturing process of CMOS and design rules 
 
-+intruducing the accurate parameters of modeling the mouse transistor with refrece to the parasitic elements
+intruducing the manufacturing process of N-well and P-well CMOS
 
-+How to draw  the layouts of digital electronics fast with the  help of bar diagrams
+intruducing the accurate parameters of modeling the mouse transistor with refrece to the parasitic elements
 
-<h3>logic families or Field-effects transistor </h3>
+How to draw  the layouts of digital electronics fast with the  help of bar diagrams
+
+logic families or Field-effects transistor 
 
 
 
