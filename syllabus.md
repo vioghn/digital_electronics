@@ -4,7 +4,7 @@ title: Syllabus
 permalink: /syllabus/
 ---
 
--<h>intruduction:</h>
+-<h>intruduction:</h><brd></brd>
 intruducing the physical structure of mouse in comparision with P-N junction and and intruducing the physiscs of mouse transistors
 
 characterisic curves and the model of Field-effect transistors(MOSFET)
@@ -20,7 +20,8 @@ intruducing the accurate parameters of modeling the mouse transistor with refrec
 How to draw  the layouts of digital electronics fast with the  help of bar diagrams
 
 -logic families or Field-effects transistor :
-ddd
+
+
 
 
 
