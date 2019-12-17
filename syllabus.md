@@ -41,7 +41,7 @@ pypeline explanation   and the role of voltage reduction in controling the power
 intruducing circuits with reduced swing?
 
 7-applied circuits
-?
+
 
 
 
