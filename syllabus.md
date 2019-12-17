@@ -4,11 +4,11 @@ title: Syllabus
 permalink: /syllabus/
 ---
 
-<h>intruduction:</h>
+<h1>intruduction:</h1>
 
-intruducing the physical structure of mouse in comparision with P-N junction and and intruducing the physiscs of mouse transistors
+<p>intruducing the physical structure of mouse in comparision with P-N junction and and intruducing the physiscs of mouse transistors</p>
 
-characterisic curves and the model of Field-effect transistors(MOSFET)
+<p>characterisic curves and the model of Field-effect transistors(MOSFET)</p>
 
 the functional specifications of a static or dynamic logical circuit
 
