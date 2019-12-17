@@ -4,7 +4,7 @@ title: Syllabus
 permalink: /syllabus/
 ---
 
-<h>intruduction:<h2>
+<h>intruduction:</h>
 
 intruducing the physical structure of mouse in comparision with P-N junction and and intruducing the physiscs of mouse transistors
 
