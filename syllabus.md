@@ -4,7 +4,7 @@ title: Syllabus
 permalink: /syllabus/
 ---
 
-1-<h>intruduction:</h><br></br>
+1-intruduction:
 intruducing the physical structure of mouse in comparision with P-N junction and and intruducing the physiscs of mouse transistors
 
 characterisic curves and the model of Field-effect transistors(MOSFET)
