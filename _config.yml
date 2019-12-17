@@ -1,7 +1,7 @@
 # Site settings
 title: Iran University of Science and Technology
 course_name: digital electronics
-course_description: Course description.
+course_description: Digital electronics, are electronics that operate on digital signals. In contrast, analog circuits manipulate analog signals whose performance is more subject to manufacturing tolerance, signal attenuation and noise. 
 course_semester: "Fall 2019"
 description: |
     Instructor: Dr naser mozayani
