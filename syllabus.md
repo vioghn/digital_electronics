@@ -12,7 +12,7 @@ permalink: /syllabus/
 
 the functional specifications of a static or dynamic logical circuit
 
-2-the manufacturing process of CMOS and design rules :
+<p style = ""></p>2-the manufacturing process of CMOS and design rules :
 
 intruducing the manufacturing process of N-well and P-well CMOS
 
@@ -62,4 +62,4 @@ intruducing circuits with reduced swing?
 
 
 
-Please find the syllbaus [here](/static_files/materials/Syllabus.pdf)
+Please find the syllbaus [here](/static_files/materials/dddd.pdf)
