@@ -12,7 +12,7 @@ permalink: /syllabus/
 
 the functional specifications of a static or dynamic logical circuit
 
-<p style = ""></p>2-the manufacturing process of CMOS and design rules :
+<p style = "font-size:28px;"></p>2-the manufacturing process of CMOS and design rules :</p>
 
 intruducing the manufacturing process of N-well and P-well CMOS
 
@@ -40,7 +40,8 @@ pypeline explanation   and the role of voltage reduction in controling the power
 
 intruducing circuits with reduced swing?
 
-7-applied circuits
+7-applied circuits:
+
 
 
 
