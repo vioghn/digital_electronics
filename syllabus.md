@@ -62,4 +62,4 @@ intruducing circuits with reduced swing?
 
 
 
-Please find the syllbaus [here](/static_files/materials/dddd.pdf)
+Please find the syllbaus [here](/static_files/materials/syllabus.pdf)
