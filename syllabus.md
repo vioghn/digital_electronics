@@ -4,7 +4,7 @@ title: Syllabus
 permalink: /syllabus/
 ---
 
-<b>intruduction:</b>
+<b>1-intruduction:</b>
 
 <p>intruducing the physical structure of mouse in comparision with P-N junction and and intruducing the physiscs of mouse transistors</p>
 
@@ -12,7 +12,7 @@ permalink: /syllabus/
 
 the functional specifications of a static or dynamic logical circuit
 
-<</strong>2-the manufacturing process of CMOS and design rules :</strong>
+<b>2-the manufacturing process of CMOS and design rules :</b>
 
 intruducing the manufacturing process of N-well and P-well CMOS
 
