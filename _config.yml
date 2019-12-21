@@ -4,7 +4,7 @@ course_name: digital electronics
 course_description: Digital electronics, are electronics that operate on digital signals. In contrast, analog circuits manipulate analog signals whose performance is more subject to manufacturing tolerance, signal attenuation and noise. 
 course_semester: "Fall 2019"
 description: |
-    Instructor: Dr naser mozayani
+    Instructor: Dr. nasser mozayani
 
 message: #Please register to our Google <a href="https://groups.google.com/forum/#!forum/gp-id">groups page</a> to get course notifications via email.
 baseurl: "/digital_electronics" # the subpath of your site, e.g. /blog/
@@ -14,6 +14,7 @@ githubdir:
 
 # Author/user information
 email:  mozayani@iust.ac.ir
+phone:  (+98) 21-7322-530 
 #github_username:  broken_github
 authorurl: "http://webpages.iust.ac.ir/mozayani"
 address: |
