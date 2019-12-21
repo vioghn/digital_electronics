@@ -14,14 +14,12 @@ githubdir:
 
 # Author/user information
 email:  mozayani@iust.ac.ir
-twitter_username: broken_twitter 
-github_username:  broken_github
+#github_username:  broken_github
 authorurl: "http://webpages.iust.ac.ir/mozayani"
 address: |
     School of Computer Engineering
     Iran University of Science and Technology
     Tehran, Iran
-
 
 # Build settings
 markdown: kramdown
