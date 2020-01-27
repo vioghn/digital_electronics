@@ -3,7 +3,7 @@ layout: page
 title: Lectures
 permalink: /lectures/
 ---
-<html>
+<th>
 <body>
   <style>
   table, td, th {
@@ -41,12 +41,13 @@ permalink: /lectures/
     <th>#4 </th>
     <th> MOS transition gates <a href = "static_files/lectures/NM-Digital4-MOS-Xgates.pdf">pdf files</a></th>
     </tr>
-    <th>#5<th> 
+    <tr>
+    <th>#5<tr> 
     <th>MOS dynamic gate <a href = "static_files/lectures/NM-Digital5-Dynamic.pdf">pdf files</a> </th>
-    </th>
+    </tr>
   </table>
   </body>
-</html>
+</th>
 
 
 
