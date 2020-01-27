@@ -14,11 +14,11 @@ permalink: /course-materials/
 5- John P. Uyemura CIrcuit Desing for CMOS VLSL Kluwer Academic publishiers, 1992.
 
 <h2> other resources <h2>
-<img src="_images/aks/b1.jpg" alts ="c"  width = "400" height = "300">
+<img src="/digital_electronics/_images/aks/b1.PNG" alts ="c"  width = "400" height = "300">
 
-<img src="_images/aks/b2.jpg" alts ="c"  width = "400" height = "300">
+<img src="/digital_electronics/_images/aks/b2.PNG" alts ="c"  width = "400" height = "300">
 
-<img src="_images/aks/b4.jpg" alts ="c" width = "400" height = "300">
+<img src="/digital_electronics/_images/aks/b4.jpg" alts ="c" width = "400" height = "300">
 
-<img src="_images/aks/b5.jpg" alts = "c" width = "400" height = "300">
+<img src="/digital_electronics/_images/aks/b5.jpg" alts = "c" width = "400" height = "300">
 
