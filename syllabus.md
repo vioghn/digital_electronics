@@ -16,6 +16,7 @@ differential conscode Voltage   switch logic</p>
 </p>
 <p dir = "rtl" align = "right"> ح)طراحی مدار های منطقی با کارایی بالا، مدار های کم توان ،سرعت بالا، و با ولتاژ کاری پایین</p>
 
+
 <h1 dir = "rtl" align ="right"><strong>نمره دهی پیشنهادی </strong></h1>
 <p  dir = "rtl" align ="right"> 40% تکالبف</p>
 <p  dir = "rtl" align ="right"> 60% آزمون های کتبی</p>
