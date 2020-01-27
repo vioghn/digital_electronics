@@ -3,13 +3,13 @@ layout: page
 title: Syllabus
 permalink: /syllabus/
 ---
-<p dir = "rtl" align="right"><big><strong>سرفصل مطالب</strong></big></p>
+<h1><strong>سرفصل مطالب</strong></big></h1>
 <p dir = "rtl" align="right" >الف)مقدمه و معرفی مشخصات عملی مدار های دیجیتال :زمان صعود،سقوط،تاخیر انتشار،مروری بر روش های مختلف ساخت گیت های منطقی و دیجیتالی و switch log </p>
 
 <p dir = "rtl" align="right">ب) مشخصه ها و مدلسازی ترانزیستور های  MOS , BJT , شبیه سازی به کمک SPICE. معرفی مدل های مختلف  و آشنایی مختصر با تکنولوژی  های ساخت CMOS ,bicmos</p>
 <p dir = "rtl" align="right">پ)مدار های منطقی استاتیکی  MOS, NMOS, CMOS. Pseude-Nmos 
 differential conscode Voltage   switch logic</p>
-<p dir = "rtl" align="right">NORA, Zipper مدار های   domino مدار های دینامیکی. و مدار های  MOS مدار های منطقی دینامیکی </p>
+<p dir = "rtl" align="right">مدارهای منطقی استاتیکی MOS , ت)مدارهای دینامیکی، مدارهای Domino ، مدار های منطق NORA , ZIPPER </p>
 <p dir = "rtl" align="right">   طراحی بلوک های پایه: مدار های جمع کننده وضرب کننده رجیستر مالتی پلکسر حافظه های  POM, EEPROM,DRAM,  Sense Amplifier , دینامیکی و استاتیکی و حافظه های  </p>
 کد کننده های آدرس وبافر 
 <p dir = "rtl" align = "right">TTL, ECL , CMOS ساختمان گیت های پایه، نحوه ی اتصال طبقات متوالی،مبدل های رابطه خانواده های منطقی مختلف، مقایسه ی خانواده های مختلف    ,TTL, ECL , خانواده های منطقی </p>
