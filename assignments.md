@@ -4,6 +4,8 @@ title: Assignments
 permalink: /assignments/
 ---
 
+<h2>these are some homeworks that should be done</h2>
+
 assignment1 [here](static_files/materials/digital-HW1-981.pdf)
 
 assignment2 [here](static_files/materials/digital-HW2-981.pdf)
