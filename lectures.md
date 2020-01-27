@@ -3,32 +3,48 @@ layout: page
 title: Lectures
 permalink: /lectures/
 ---
-<table>
-<tr> 
-<th>orders</th>
-<th>subjects and descriptions</th>
-</tr>
-<tr>
-<th> #1</th>
-<th> Designing MOS circuits  <p> pdf slides</p> <a href= "static_files/lectures/NM-Digital1-MOS.pdf">pdf file</a>  </th>
-</tr>
-<tr>
-<th>#2 </th>
-<th> Traditional design of MOS circuits <a href = "static_files/lectures/NM-Digital2-NMOS.pdf"> pdf files</a></th>
-</tr>
-<tr>
-<th>#3 </th>
-<th> CMOS inverter <a href ="static_files/lectures/NM-Digital3-CMOS.pdf">pdf files</a></th>
-</tr>
-<tr>
-<th>#4 </th>
-<th> MOS transition gates <a href = "static_files/lectures/NM-Digital4-MOS-Xgates.pdf">pdf files</a></th>
-</tr>
-<tr>#5<th> </th>
-<th>MOS dynamic gate <a href = "static_files/lectures/NM-Digital5-Dynamic.pdf">pdf files</a> </th>
-</tr>
-</table>
+<html>
+<body>
+  <style>
+  table, td, th {
+    border: 1px solid black;
+  }
 
+  table {
+    border-collapse: collapse;
+    width: 100%;
+  }
+
+  th {
+    text-align: left;
+  </style>
+  <table>
+    <tr> 
+    <th>orders</th>
+    <th>subjects and descriptions</th>
+    </tr>
+    <tr>
+    <th> #1</th>
+    <th> Designing MOS circuits  <p> pdf slides</p> <a href= "static_files/lectures/NM-Digital1-MOS.pdf">pdf file</a>  </th>
+    </tr>
+    <tr>
+    <th>#2 </th>
+    <th> Traditional design of MOS circuits <a href = "static_files/lectures/NM-Digital2-NMOS.pdf"> pdf files</a></th>
+    </tr>
+    <tr>
+    <th>#3 </th>
+    <th> CMOS inverter <a href ="static_files/lectures/NM-Digital3-CMOS.pdf">pdf files</a></th>
+    </tr>
+    <tr>
+    <th>#4 </th>
+    <th> MOS transition gates <a href = "static_files/lectures/NM-Digital4-MOS-Xgates.pdf">pdf files</a></th>
+    </tr>
+    <tr>#5<th> </th>
+    <th>MOS dynamic gate <a href = "static_files/lectures/NM-Digital5-Dynamic.pdf">pdf files</a> </th>
+    </tr>
+  </table>
+  </body>
+</html>
 
 
 
