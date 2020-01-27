@@ -4,8 +4,7 @@ title: Lectures
 permalink: /lectures/
 ---
 
-You can download the lectures here (in PDF format). I will try to upload lectures prior to their corresponding classes.
-
+designing MOS circuits[slides](static_files/lectures/NM-Digital1-MOS.pdf)
 
 <ul id="archive">
 {% for lecture in site.lectures reversed %}
