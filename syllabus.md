@@ -18,21 +18,4 @@ differential conscode Voltage   switch logic</p>
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-Please find the syllbaus [here](/static_files/materials/syllabus.pdf)
+Please find the syllbaus [here](_images/syll.gif)
