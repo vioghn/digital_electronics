@@ -8,3 +8,4 @@ slides: /static_files/presentations/week3_greedy_algorithms.zip
 #tldr: "Short text to discribe what this lecture is about."
 #thumbnail: /static_files/presentations/lec.jpg
 ---
+designing MOS circuits[slides](static_files/lectures/NM-Digital1-MOS.pdf)
