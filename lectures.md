@@ -3,24 +3,22 @@ layout: page
 title: Lectures
 permalink: /lectures/
 ---
-<th>
-<body>
+
   <style>
-  table, td, th {
-    border: 1px solid black;
-  }
+    table, td, th {
+      border: 1px solid black;
+    }
 
-  table {
-    border-collapse: collapse;
-    width: 100%;
-  }
+    table {
+      border-collapse: collapse;
+      width: 100%;
+    }
 
-  th {
-    text-align: left;
-  }
-  
+    th {
+      text-align: left;
+    }
   </style>
-  <table >
+  <table>
     <tr> 
     <th>orders</th>
     <th>subjects and descriptions</th>
@@ -42,12 +40,12 @@ permalink: /lectures/
     <th> MOS transition gates <a href = "static_files/lectures/NM-Digital4-MOS-Xgates.pdf">pdf files</a></th>
     </tr>
     <tr>
-    <th>#5<tr> 
+    <html>#5<tr> 
     <th>MOS dynamic gate <a href = "static_files/lectures/NM-Digital5-Dynamic.pdf">pdf files</a> </th>
     </tr>
   </table>
-  </body>
-</th>
+ 
+
 
 
 
