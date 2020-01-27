@@ -4,15 +4,15 @@ title: Lectures
 permalink: /lectures/
 ---
 
-Designing MOS circuits [slides] (static_files/lectures/NM-Digital1-MOS.pdf)
+Designing MOS circuits [slides](static_files/lectures/NM-Digital1-MOS.pdf)
 
 Traditional design of MOS circuits [slides](static_files/lectures/NM-Digital2-NMOS.pdf)
 
-CMOS inverter [slides] (static_files/lectures/NM-Digital3-CMOS.pdf)
+CMOS inverter [slides](static_files/lectures/NM-Digital3-CMOS.pdf)
 
 MOS transition gates [slides](static_files/lectures/NM-Digital4-MOS-Xgates.pdf)
 
-MOS dynamic gate [slides] (static_files/lectures/NM-Digital5-Dynamic.pdf)
+MOS dynamic gate [slides](static_files/lectures/NM-Digital5-Dynamic.pdf)
 
 <ul id="archive">
 {% for lecture in site.lectures reversed %}
