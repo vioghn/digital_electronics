@@ -15,6 +15,8 @@ differential conscode Voltage   switch logic</p>
 <p dir = "rtl" align = "right"> چ)ملاحظات عملی در طراحی مدار های مدار های مجتمع منطقی و معیار های انتخاب خانواده های مننطقی مورد نظر 
 </p>
 <p dir = "rtl" align = "right"> ح)طراحی مدار های منطقی با کارایی بالا، مدار های کم توان ،سرعت بالا، و با ولتاژ کاری پایین</p>
-
-
+<h2  dir = "rtl" align ="right">نمره دهی پیشنهادی </h2>
+<p  dir = "rtl" align ="right"> 40% تکالبف</p>
+<p  dir = "rtl" align ="right"> 60% آزمون های کتبی</p>
+ 
 Please find the syllbaus [here](_images/syll.gif)
