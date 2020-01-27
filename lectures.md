@@ -40,7 +40,7 @@ permalink: /lectures/
     <th> MOS transition gates <a href = "static_files/lectures/NM-Digital4-MOS-Xgates.pdf">pdf files</a></th>
     </tr>
     <tr>
-    <th>#5<tr> 
+    <th>#5</th> 
     <th>MOS dynamic gate <a href = "static_files/lectures/NM-Digital5-Dynamic.pdf">pdf files</a> </th>
     </tr>
   </table>
