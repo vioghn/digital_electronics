@@ -18,4 +18,4 @@ differential conscode Voltage   switch logic</p>
 
 
 
-                             Please find the syllbaus [here](_images/syll.gif) 
+Please find the syllbaus [here](_images/syll.gif)
