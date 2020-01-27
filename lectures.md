@@ -25,7 +25,7 @@ permalink: /lectures/
     </tr>
     <tr>
     <th> #1</th>
-    <th> Designing MOS circuits <a href= "/digital_electronics/static_files/lectures/NM-Digital1-MOS.pdf">pdf file</a>  </th>
+    <th> Designing MOS circuits <a href= "/digital_electronics/static_files/lectures/NM-Digital1-MOS.pdf">pdf file</a> </th>
     </tr>
     <tr>
     <th>#2 </th>
