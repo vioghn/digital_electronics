@@ -3,10 +3,15 @@ layout: page
 title: Assignments
 permalink: /assignments/
 ---
+
 assignment1 [here](static_files/materials/digital-HW1-981.pdf)
+
 assignment2 [here](static_files/materials/digital-HW2-981.pdf)
+
 assignment3 [here](static_files/materials/digital-HW3-981.pdf)
+
 assignment4 [here](static_files/materials/digital-HW4-981.pdf)
+
 assignment5 [here](static_files/materials/digital-HW5-981.pdf)
 
 <ul id="archive">
