@@ -17,8 +17,10 @@ permalink: /lectures/
 
   th {
     text-align: left;
+  }
+  
   </style>
-  <table>
+  <table >
     <tr> 
     <th>orders</th>
     <th>subjects and descriptions</th>
@@ -39,7 +41,7 @@ permalink: /lectures/
     <th>#4 </th>
     <th> MOS transition gates <a href = "static_files/lectures/NM-Digital4-MOS-Xgates.pdf">pdf files</a></th>
     </tr>
-    <tr>#5<th> </th>
+    <tr>#5<th> 
     <th>MOS dynamic gate <a href = "static_files/lectures/NM-Digital5-Dynamic.pdf">pdf files</a> </th>
     </tr>
   </table>
