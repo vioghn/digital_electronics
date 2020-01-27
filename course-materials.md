@@ -18,7 +18,7 @@ permalink: /course-materials/
 
 <img src="_images/aks/b2.jpg" alts ="c"  width = "400" height = "300">
 
-<img src="_images/aks/b4.jpg"alts ="c" width = "400" height = "300">
+<img src="_images/aks/b4.jpg" alts ="c" width = "400" height = "300">
 
-<img src="_images/aks/b5.jpg"alts = "c" width = "400" height = "300">
+<img src="_images/aks/b5.jpg" alts = "c" width = "400" height = "300">
 
