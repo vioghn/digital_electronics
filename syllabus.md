@@ -4,10 +4,7 @@ title: Syllabus
 permalink: /syllabus/
 ---
 <p dir = "rtl" align="right"><big><strong>سرفصل مطالب</strong></big></p>
-<p dir = "rtl" align="right" > 
-
-
- switch log مقدمه و معرفی مشخصات عملی مدار های دیجیتال : زمان صعود،سقوط ،تاخیر انتشار،مروری بر روش های مختلف ساخت گیت های منطقی دیجیتالی و  </p>
+<p dir = "rtl" align="right" >مقدمه و معرفی مشخصات عملی مدار های دیجیتال :زمان صعود،سقوط،تاخیر انتشار،مروری بر روش های مختلف ساخت گیت های منطقی و دیجیتالی و switch log </p>
 
 <p dir = "rtl" align="right">مشخصه ها و مدلسازی ترانزیستور های  MOS , BJT , شبیه سازی به کمک SPICE. معرفی مدل های مختلف  و آشنایی مختصر با تکنولوژی  های ساخت CMOS ,bicmos</p>
 <p dir = "rtl" align="right">مدار های منطقی استاتیکی  MOS, NMOS, CMOS. Pseude-Nmos 
