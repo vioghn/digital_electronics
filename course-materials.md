@@ -12,3 +12,6 @@ permalink: /course-materials/
 4- R. T Owe,and C. G sodini, Micro electronics, An intergrated Approach, prentice Hall,1997.
 
 5- John P. Uyemura CIrcuit Desing for CMOS VLSL Kluwer Academic publishiers, 1992.
+
+<h2> other resources <h2>
+<img src="/_images/aks" alt="HTML5 Icon" style="width:128px;height:128px;">
